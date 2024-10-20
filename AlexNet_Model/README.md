@@ -1,6 +1,7 @@
 ## Project Overview
 
-This project implements the AlexNet architecture for image classification using the Intel Image Classification dataset. Below are the details of each step involved in the project.
+This project implements the AlexNet architecture for image classification using the Intel Image Classification dataset(seg_train,seg_test & seg_pred ).Data contains around 24k images of size 150x150 distributed
+under 6 categories: Buildings, Forest, Glacier, Mountain, Sea, Street. Below are the details of each step involved in the project.
 
 ### Dataset Handling
 The project uses the Intel Image Classification dataset, which consists of images divided into various categories, such as buildings, forests, mountains, etc. The dataset is loaded and prepared for training, validation, and testing.
